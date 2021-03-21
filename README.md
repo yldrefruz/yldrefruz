@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yldrefruz
+- 👀 I’m interested in Unreal Engine, C#, Java, C++
+- 🌱 I’m currently learning advanced C++
